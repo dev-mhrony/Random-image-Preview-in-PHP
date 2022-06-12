@@ -12,7 +12,7 @@
 
     <?php 
     
-    $pic = rand(1,5);
+    $pic = rand(1,6);
     
     if($pic == 1){
         
@@ -25,6 +25,16 @@
     }if($pic == 3){
         print '<img src = "https://www.paperlessmovement.com/wp-content/uploads/2019/09/o2dvsv2pnhe.jpg"';
     }
+    if($pic == 4){
+        print '<img src = "02.jpg"';
+    }
+    if($pic == 5){
+        print '<img src = "01.jpg"';
+    }
+    if($pic == 6){
+        print '<img src = "03.jpg"';
+    }
+    
     
 
 
