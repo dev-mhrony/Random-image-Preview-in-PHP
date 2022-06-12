@@ -35,12 +35,9 @@
         print '<img src = "03.jpg"';
     }
     
-    
-
 
     
     ?>
-
 
 
 
